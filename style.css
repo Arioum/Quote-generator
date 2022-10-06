@@ -11,7 +11,7 @@ body {
   padding: 0;
   font-size: 62.5%;
   min-height: 100vh;
-  background-image: url("/topography.svg");
+  background-image: url("topography.svg");
   font-family: 'Poppins', sans-serif;
   text-align: center;
   display: flex;

@@ -1,6 +1,6 @@
 ## Quote-generator
 
-A simple quote generator which retirieves quotes from an api. Added a Tweet Quote feature which allows to tweet the current quote directly to twitter.
+A simple quote generator which retirieves quotes from an api. Added a Tweet Quote feature which allows to tweet the current quote to twitter.
 
 ### Preview
 
